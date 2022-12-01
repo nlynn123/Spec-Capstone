@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(9, 87, 74); 
+}
+
+
+.ad_banner {
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    color: white;
+    background-size: cover;
+  }
+  .ad_text {
+    width: 880px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+    font-size: 50px; 
+  }
+
+ 

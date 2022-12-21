@@ -7,8 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
  `npm i` to install available dependencies. Then run 'nodemon' and 'npm start' to view it in your browser. 
-
-<img src="homescreen.png">
+<img src="loginscreen.png.png">
+<img src="homescreen.png.png">
+<img src="bookcards.png.png">
+<img src="addafave.png.png">
 
 
 ### `npm test`

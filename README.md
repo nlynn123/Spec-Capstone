@@ -1,18 +1,15 @@
-# Getting Started with Create React App
+# The Repository of Favorite Books
+
+This is a project to store and add favorite books. The user can log in, browse other people's favorite books. Users can add a favorite book. Users can save other favorite books to a TBR list. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
 In the project directory, you can run:
 
-### `npm start`
+ `npm i` to install available dependencies. Then run 'nodemon' and 'npm start' to view it in your browser. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<img src="homescreen.png">
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
